@@ -45,30 +45,6 @@ body, html{
     
 }
 
-
-.textoFoto{
-    margin-left: 50em ;
-    margin-top: 25em;
-    width: 30rem;
-    text-align: right;
-    display: block;
-}
-
-@media only screen and (max-width: 1300px) {
-    /* For mobile phones: */
-    .textoFoto{
-      position: absolute ;
-      margin-top: 10em;
-      margin-left: 0em ;
-      text-align: center;    
-      
-    }
-}
-
-.titulo{
-    font-size: x-large;
-}
-
 .botonesFoto{
     margin-top: 0.5rem;
 
@@ -110,9 +86,11 @@ body, html{
 
 /*Formulario*/
 
+
 form{
     margin: 0 auto; 
 }
+
 
 /*Navegador footer*/
 .navFooter{
